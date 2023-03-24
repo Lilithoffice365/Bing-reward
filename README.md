@@ -1,0 +1,2 @@
+# Bing-reward
+Auto Search
